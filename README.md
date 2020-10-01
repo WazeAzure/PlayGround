@@ -1,4 +1,4 @@
-<style="color:red;"># PlayGround
+# PlayGround
 This is the place where I do the TEAM-UP exercises.
 
 Link to the Dsicord Group. (Indonesian)
