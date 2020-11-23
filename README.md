@@ -2,7 +2,7 @@
 This is the place where I do the TEAM-UP exercises.
 
 Link to the Discord Group. (Indonesian)
-https://discord.gg/udQCBP
+https://discord.gg/y6rWpzCuwH
 
 Link to the Color_Adjust <br>
 https://wazeazure.github.io/PlayGround/Color_Adjust
